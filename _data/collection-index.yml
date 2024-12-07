@@ -962,3 +962,8 @@
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
   ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+- name: devcontainer templates by Doug Hatcher for Adobe Commerce
+  maintainer: Doug Hatcher
+  contact: https://github.com/doughatcher/devcontainer-templates/issues
+  repository: https://github.com/doughatcher/devcontainer-templates
+  ociReference: ghcr.io/doughatcher/devcontainer-templates
